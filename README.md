@@ -1,3 +1,4 @@
+# 👋 Hi, I'm William Stiven Rodríguez
 🌍 **Ubicación:** Colombia  
 🎓 **Estudios:** ADSO en el SENA  
 💻 **Intereses:** Desarrollo de software, Linux, y hacking ético  
