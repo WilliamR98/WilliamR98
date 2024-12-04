@@ -3,7 +3,7 @@
 🎓 **Estudios:** ADSO en el SENA  
 💻 **Intereses:** Desarrollo de software, Linux, y hacking ético  
 🌱 **Objetivo:** Aprender y crecer cada día más en el mundo de las TI  
-🏡 **Sueño:** Trabajar de forma remota desde la comodidad de mi hogar
+🏡 **Meta:** Trabajar de forma remota desde la comodidad de mi hogar
 
 ---
 
@@ -25,7 +25,7 @@ Siempre he estado interesado en el mundo de las TI y estoy en un camino de const
 🎓 **Studies:** ADSO at SENA  
 💻 **Interests:** Software development, Linux, and ethical hacking  
 🌱 **Goal:** To learn and grow every day in the IT world  
-🏡 **Dream:** To work remotely from the comfort of my home
+🏡 **goals:** To work remotely from the comfort of my home
 
 ---
 
