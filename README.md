@@ -25,7 +25,7 @@ Siempre he estado interesado en el mundo de las TI y estoy en un camino de const
 🎓 **Studies:** ADSO at SENA  
 💻 **Interests:** Software development, Linux, and ethical hacking  
 🌱 **Goal:** To learn and grow every day in the IT world  
-🏡 **goals:** To work remotely from the comfort of my home
+🏡 **Goals:** To work remotely from the comfort of my home
 
 ---
 
