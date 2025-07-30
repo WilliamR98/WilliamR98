@@ -1,41 +1,34 @@
-# 👋 Hi, I'm William Stiven Rodríguez
-🌍 **Ubicación:** Colombia  
-🎓 **Estudios:** ADSO en el SENA  
-💻 **Intereses:** Desarrollo de software, Linux, y hacking ético  
-🌱 **Objetivo:** Aprender y crecer cada día más en el mundo de las TI  
-🏡 **Meta:** Trabajar de forma remota desde la comodidad de mi hogar
+# 👋 ¡Hola! Soy William Stiven Rodríguez
+
+🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA)  
+🌍 Colombia  
+💻 Interesado en desarrollo de software, Linux y fundamentos de TI  
+🌱 En constante aprendizaje y formación práctica
 
 ---
 
 ## Sobre mí
 
-Siempre he estado interesado en el mundo de las TI y estoy en un camino de constante aprendizaje. Aunque mi conocimiento es limitado por ahora, me apasiona el desarrollo de software y quiero seguir aprendiendo para alcanzar mi sueño de trabajar en tecnología desde casa. ¡Estoy emocionado por lo que el futuro me depara!
+Soy tecnólogo en Análisis y Desarrollo de Software, con una gran motivación por seguir aprendiendo y mejorando cada día. Me apasiona la tecnología y disfruto explorar cómo funcionan las herramientas que usamos en el desarrollo de software.
+
+Actualmente estoy enfocado en aprender conceptos fundamentales como estructuras de control, lógica de programación, control de versiones con Git, y herramientas de desarrollo. Mi meta es formar una base sólida que me permita crecer con confianza dentro del mundo del software.
 
 ---
 
-💬 **¿Te gustaría colaborar?** No dudes en contactarme. Estoy abierto a nuevas oportunidades y desafíos.
+## 🚧 Aprendiendo sobre:
 
-📫 **Contáctame:** [wsrodriguez98@gmai.com]  
-⚡ **Dato curioso:** ¡Soy un entusiasta de la tecnología que nunca deja de aprender!
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# 👋 Hi, I'm William Stiven Rodríguez
-
-🌍 **Location:** Colombia  
-🎓 **Studies:** ADSO at SENA  
-💻 **Interests:** Software development, Linux, and ethical hacking  
-🌱 **Goal:** To learn and grow every day in the IT world  
-🏡 **Goals:** To work remotely from the comfort of my home
+- Programación con Java y JavaScript  
+- Git y GitHub  
+- HTML y CSS  
+- Entornos Linux y terminal  
+- Buenas prácticas de desarrollo
 
 ---
 
-## About Me
+## 📫 ¿Quieres contactarme?
 
-I've always been interested in the IT world, and I'm on a constant learning journey. Although my knowledge is currently limited, I'm passionate about software development and eager to learn more. My dream is to work in tech from home, and I'm excited about what the future holds!
+- 📧 Email: wsrodriguez98@gmail.com  
+- 💼 LinkedIn: [Tu perfil aquí]  
+- 🧑‍💻 GitHub: [github.com/WilliamR98](https://github.com/WilliamR98)
 
 ---
-
-💬 **Interested in collaborating?** Feel free to reach out. I'm open to new opportunities and challenges.
-
-📫 **Contact me:** [wsrodriguez98@gmai.com]  
-⚡ **Fun fact:** I'm a tech enthusiast who never stops learning!
